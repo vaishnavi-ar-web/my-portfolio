@@ -41,4 +41,4 @@ Thank you for visiting my portfolio!
 - **Description:** A modern and responsive ice cream website featuring product galleries, menu, customer reviews and ordering options.
 - **Tools Used:** Lovable, HTML, CSS, JavaScript
 - **GitHub Repository:** [View Source Code](https://github.com/vaishnavi-ar-web/scoop-ai-dreams)
--
+
