@@ -31,3 +31,14 @@ Connect With Me
 - LinkedIn: https://www.linkedin.com/in/vaishnavi-a-r-881011336
 
 Thank you for visiting my portfolio!
+
+
+## My Projects
+
+### 1. Scoopia - Ice Cream Website
+
+- **Project Type:** Website Development
+- **Description:** A modern and responsive ice cream website featuring product galleries, menu, customer reviews and ordering options.
+- **Tools Used:** Lovable, HTML, CSS, JavaScript
+- **GitHub Repository:** [View Source Code](https://github.com/vaishnavi-ar-web/scoop-ai-dreams)
+-
