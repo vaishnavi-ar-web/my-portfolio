@@ -42,3 +42,31 @@ Thank you for visiting my portfolio!
 - **Tools Used:** Lovable, HTML, CSS, JavaScript
 - **GitHub Repository:** [View Source Code](https://github.com/vaishnavi-ar-web/scoop-ai-dreams)
 
+- 2. AI Video Generator Website 🤖
+
+Project Status: In Progress 🚧
+
+Project Description:
+
+Developing an AI-powered video generation website that transforms text prompts and stories into images, voiceovers, and videos.
+
+Technologies Used:
+
+- Lovable
+- Replicate API
+- HTML, CSS, JavaScript
+
+Completed Features:
+
+- Text prompt input
+- AI image generation using Replicate API
+
+Features Under Development:
+
+- AI voice generation
+- Video generation
+- Video preview and download
+- Previous project history
+
+GitHub Repository: "View Source Code" (https://github.com/vaishnavi-ar-web/pixel-repeat-charm)
+
