@@ -42,7 +42,7 @@ Thank you for visiting my portfolio!
 - **Tools Used:** Lovable, HTML, CSS, JavaScript
 - **GitHub Repository:** [View Source Code](https://github.com/vaishnavi-ar-web/scoop-ai-dreams)
 
-- 2. AI Video Generator Website 🤖
+###2. AI Video Generator Website 🤖
 
 Project Status: In Progress 🚧
 
